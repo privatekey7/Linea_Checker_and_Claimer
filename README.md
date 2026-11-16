@@ -179,3 +179,8 @@ npm audit
 - [Linea Official Website](https://linea.build) - официальный сайт
 - [Linea Documentation](https://docs.linea.build) - документация
 - [Viem Documentation](https://viem.sh) - библиотека для работы с блокчейном
+
+## Автор
+
+Канал в Telegram: [@privatekey_ai](https://t.me/privatekey_ai) — Claude Code, ИИ-агенты и новые нейросети на практике.
+Вопросы и предложения — в [чате канала](https://t.me/privatekey_ai_chat).
